@@ -8,3 +8,4 @@ E:\Project\Program\C_Sharp\ChangeSizeLangLa\obj\Debug\ChangeSizeLangLa.csproj.Ge
 E:\Project\Program\C_Sharp\ChangeSizeLangLa\obj\Debug\ChangeSizeLangLa.csproj.CoreCompileInputs.cache
 E:\Project\Program\C_Sharp\ChangeSizeLangLa\obj\Debug\ChangeSizeLangLa.exe
 E:\Project\Program\C_Sharp\ChangeSizeLangLa\obj\Debug\ChangeSizeLangLa.pdb
+E:\Project\Program\C_Sharp\ChangeSizeLangLa\obj\Debug\ChangeSizeLangLa.csproj.AssemblyReference.cache

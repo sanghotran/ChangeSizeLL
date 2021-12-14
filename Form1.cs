@@ -85,6 +85,20 @@ namespace ChangeSizeLangLa
                     {
 
                     }
+                    try
+                    {
+                        File.Delete(string.Concat(new object[]
+                        {
+                            this.string_1,
+                            "\\arr_check_",
+                            i,
+                            ".bin"
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
                 }
             }catch (Exception ex)
             {
