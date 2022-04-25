@@ -99,6 +99,48 @@ namespace ChangeSizeLangLa
                     {
 
                     }
+                    try
+                    {
+                        File.Delete(string.Concat(new object[]
+                        {
+                            this.string_1,
+                            "\\char_icon_",
+                            i,
+                            ".bin"
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
+                    try
+                    {
+                        File.Delete(string.Concat(new object[]
+                        {
+                            this.string_1,
+                            "\\client_icon_",
+                            i,
+                            ".bin"
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
+                    try
+                    {
+                        File.Delete(string.Concat(new object[]
+                        {
+                            this.string_1,
+                            "\\tree_",
+                            i,
+                            ".bin"
+                        }));
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
                 }
             }catch (Exception ex)
             {
